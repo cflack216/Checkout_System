@@ -26,6 +26,7 @@ class Item:
 
 x = Inventory()
 total = 0.00
+print("Bread $3.99 1231\nChocolate $2.99 9999\nCharger $6.99 7874\nBook $9.99 9785\nModel $19.99 2934\n")
 
 while True:
     try:
